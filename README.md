@@ -10,8 +10,7 @@
   - automation
   - beginner-friendly technical explanations
 
-  i enjoy understanding how things connect:
-  from status bars and terminal workflows to scripts, configs, and window managers.
+  i enjoy understanding how things connect
 
   ## learning now
 
@@ -29,3 +28,6 @@
   ## contact
 
   - github: [xynrin](https://github.com/Xynrin)
+  - discord: [xynrin](https://discord.gg/gUb5Mnbs)
+  - blog:
+  - bbs:
