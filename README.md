@@ -31,3 +31,5 @@
   - discord: [xynrin](https://discord.gg/gUb5Mnbs)
   - blog:
   - bbs:
+
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xynrin&theme=github-compact&hide_border=true&area=true" />
