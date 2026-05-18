@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<a href="https://linux.do/u/silentbyte" target="_blank">
+<a href="https://linux.do/u/xynrin" target="_blank">
   <img 
     width="1659"
     height="948"
